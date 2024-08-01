@@ -1,0 +1,15 @@
+[{
+    "name": "Hari Om",
+    "designation": "Doctor",
+    "mobileNumber": 3434567890,
+    "email": "omhari@example.com",
+    "healthFacility": "State Hospital"
+},
+{
+    "name": "John Doe",
+    "designation": "Doctor",
+    "mobileNumber": 1234567890,
+    "email": "john.doe@example.com",
+    "healthFacility": "City Hospital"
+}
+]

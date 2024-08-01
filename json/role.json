@@ -1,0 +1,22 @@
+[
+    {
+        "role_id":1,
+        "role_name":"Doctor",
+        "role_description":"Diagnosis Patients"
+    },
+    {
+        "role_id":2,
+        "role_name":"Nurse",
+        "role_description":"Takes Care of Patients"
+    },
+    {
+        "role_id":3,
+        "role_name":"Peon",
+        "role_description":"Helps"
+    },
+    {
+        "role_id":4,
+        "role_name":"Assisstant",
+        "role_description":"Assists"
+    }
+]
